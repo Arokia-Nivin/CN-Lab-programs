@@ -1,3 +1,3 @@
 # CN-Lab-programs
 
-This Repository consists of some basic CN Lab Programs
+This Repository consists of some basic Computer Network Lab Programs
